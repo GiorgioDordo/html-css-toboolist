@@ -46,7 +46,7 @@ h1 {
 
 .section {
     background-color: white;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 hr {
@@ -66,9 +66,42 @@ hr {
 
 p {
     padding-top: 20px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    font-size: 20px;
 }
 
+.box {
+    width: 50x;
+    height: 30px;
+    background-color: lightgreen;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+}
 
+.blue {
+    background-color: lightblue;
+}
 
+.pink {
+    background-color: pink;
+}
 
+.light-green {
+    background-color: lightgreen;
+}
+
+.green {
+    background-color: green;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.orange {
+    background-color: orange;
+}
