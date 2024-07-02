@@ -105,3 +105,20 @@ p {
 .orange {
     background-color: orange;
 }
+
+.check {
+    background-color: white;
+    color: green;
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    text-align: center;
+    line-height: 25px;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+
+.odd {
+    color: red;
+    border: 2px solid red;
+}
