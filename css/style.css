@@ -27,13 +27,13 @@ h1 {
     max-width: 1080px;
     background-color: white;
     border-radius: 5px;
-    padding: 10px;
-    padding-left: 30px;
 }
 
 .button {
     padding: 6px;
     border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border: none;
 }
 
@@ -41,11 +41,34 @@ h1 {
     background-color: rgb(31,144,255);
     border: 1px solid rgb(31,144,255);
     color: white;
+    margin-left: 30px;
 }
 
 .section {
     background-color: white;
-    border: 1px solid black;
+    border: 2px solid black;
 }
+
+hr {
+    height: 3px;
+    border: none;
+    background-color: lightslategray;
+}
+
+.list {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.symbol {
+    vertical-align:sub;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+
 
 
